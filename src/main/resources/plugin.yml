@@ -1,0 +1,6 @@
+name: HuskHomesTest
+version: '${project.version}'
+main: es.virtualhit.huskhomestest.HuskHomesTest
+api-version: 1.19
+depend:
+  - HuskHomes
